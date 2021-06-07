@@ -26,7 +26,7 @@ Duration of the media.
 Size of the digital file in bytes.
 
 ### Subject
-A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: [Folk songs, English -- Colorado]; [Field recordings -- Colorado]; [Folk music -- Colorado]  
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Folk songs, English -- Colorado; Field recordings -- Colorado; Folk music -- Colorado  
 ### Description
 Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
 
